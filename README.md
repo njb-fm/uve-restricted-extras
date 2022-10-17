@@ -14,6 +14,6 @@ ttf-ms-fonts
 
 icedtea-web
 
-icestea-web-doc
+icedtea-web-doc
 
 libmp4v2

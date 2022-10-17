@@ -4,16 +4,16 @@ This package introduces the following additional items:
 
 このパッケージでは以下のものが追加で導入されます:
 
+ttf-ms-fonts
+
+gst-libav
+
+gst-plugins-ugly
+
+unrar
+
 libdvdread
 
 libdvdcss
 
 libdvdnav
-
-ttf-ms-fonts
-
-icedtea-web
-
-icedtea-web-doc
-
-libmp4v2
